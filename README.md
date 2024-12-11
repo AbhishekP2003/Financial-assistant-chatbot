@@ -54,7 +54,7 @@ Follow these steps to set up the project locally:
 
 ## Images
 - Greetings!
-  ![Greetings](https://github.com/diwakarnagaraju/Healthcare-chatbot/blob/680716ade6620b90ae9acd8b00cb4602a82f5bce/greetings.png "Greetings")
+  ![Greetings](https://github.com/AbhishekP2003/Financial-assistant-chatbot/blob/eda836790da4ccc9c69476a61b384ae9286e0f50/Greetings.png)
 
 - Symptoms
   ![symptoms](https://github.com/diwakarnagaraju/Healthcare-chatbot/blob/57a10b7d45c4d0badc2861b74a43da7aaf5f03d9/symptoms.png)
