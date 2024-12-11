@@ -1,0 +1,74 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Hey", "Good morning", "Good evening"],
+      "responses": [
+        "Hello! How can I assist you today with your financial questions?",
+        "Hi there! Do you need help with managing your finances or investments?"
+      ]
+    },
+    {
+      "tag": "budgeting",
+      "patterns": ["How can I create a budget?", "What is the 50/30/20 rule?", "How do I track my expenses?"],
+      "responses": [
+        "To create a budget, list your income and expenses, and allocate amounts to different categories.",
+        "The 50/30/20 rule suggests allocating 50% to needs, 30% to wants, and 20% to savings or debt.",
+        "Tracking expenses can be done using apps, spreadsheets, or simply writing down daily expenses."
+      ]
+    },
+    {
+      "tag": "investing",
+      "patterns": ["What is investing?", "How can I start investing in stocks?", "What are mutual funds?"],
+      "responses": [
+        "Investing means putting money into assets with the expectation of earning a return.",
+        "To start investing in stocks, research companies, set up a brokerage account, and buy stocks you're confident in.",
+        "Mutual funds pool money from many investors to invest in a diversified portfolio of stocks or bonds."
+      ]
+    },
+    {
+      "tag": "savings",
+      "patterns": ["How can I save money?", "What is an emergency fund?", "How much should I save every month?"],
+      "responses": [
+        "To save money, start by setting specific savings goals and automate transfers to a savings account.",
+        "An emergency fund is a savings buffer for unexpected expenses, typically 3-6 months of living expenses.",
+        "A good rule of thumb is to save at least 20% of your income, but it depends on your financial goals."
+      ]
+    },
+    {
+      "tag": "loans",
+      "patterns": ["What is a mortgage?", "How do personal loans work?", "What is the best way to pay off debt?"],
+      "responses": [
+        "A mortgage is a loan taken to buy a property, usually repaid over 15-30 years with interest.",
+        "Personal loans are unsecured loans that don't require collateral, and they typically have fixed repayment terms.",
+        "The best way to pay off debt is to focus on high-interest debt first and consider consolidating or refinancing loans."
+      ]
+    },
+    {
+      "tag": "stock_market",
+      "patterns": ["What is the stock market?", "How do I buy stocks?", "What are dividends?"],
+      "responses": [
+        "The stock market is where buyers and sellers trade shares of publicly listed companies.",
+        "To buy stocks, you need to open a brokerage account, deposit funds, and place buy orders on stocks you're interested in.",
+        "Dividends are payments made by companies to their shareholders as a share of the company's profits."
+      ]
+    },
+    {
+      "tag": "cryptocurrency",
+      "patterns": ["What is cryptocurrency?", "How can I buy Bitcoin?", "What is Ethereum?"],
+      "responses": [
+        "Cryptocurrency is a digital or virtual form of currency that uses cryptography for security.",
+        "To buy Bitcoin, you need to sign up on a cryptocurrency exchange, link a payment method, and place a buy order.",
+        "Ethereum is a decentralized platform that enables smart contracts and decentralized applications, using the cryptocurrency Ether."
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "Goodbye", "See you", "Take care"],
+      "responses": [
+        "Goodbye! Take care of your finances and stay financially healthy.",
+        "See you! Wishing you financial success and well-being."
+      ]
+    }
+  ]
+}
