@@ -33,7 +33,7 @@ Follow these steps to set up the project locally:
    git clone https://github.com/AbhishekP2003/financial-assistant-chatbot.git
 2. Navigate to the project directory:
    ```bash
-   cd healthcare-chatbot
+   cd financial-asst-chatbot
    
 3. Create a Virtual Environment (Optional but Recommended)
    ```bash
