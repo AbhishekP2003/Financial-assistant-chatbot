@@ -72,7 +72,7 @@ Follow these steps to set up the project locally:
   ![stockmarket](https://github.com/AbhishekP2003/Financial-assistant-chatbot/blob/1088a11bfb62ae31c952556ca05db7681e8a56a8/Stockmarket.png)
 
 - Good Bye
-  ![Good Bye]
+  ![Good Bye](https://github.com/AbhishekP2003/Financial-assistant-chatbot/blob/a7898ae1a1d0aaea6b326723480bc5a33df8a5b4/Goodbye.png)
 
 ---
 
