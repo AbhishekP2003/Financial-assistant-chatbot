@@ -132,6 +132,6 @@ These enhancements will improve the chatbot’s accuracy, user experience, and o
 ## Contact
 
 - Author: Diwakar Nagaraju
-- GitHub: [Abhishek P](https://github.com/diwakarnagaraju)
+- GitHub: [Abhishek P](https://github.com/AbhishekP2003)
 - Email: abhishek.p.ssmrvpu@gmail.com
 ---
