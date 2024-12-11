@@ -88,16 +88,6 @@ The chatbot saves the conversation history in a CSV file (`chat_log.csv`). You c
 
 ---
 
-## Contributing
-Contributions to this project are welcome! If you have suggestions for improvements or features, feel free to open an issue or submit a pull request.
-
----
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgments
 - **NLTK** for natural language processing.
 - **Scikit-learn** for machine learning algorithms.
