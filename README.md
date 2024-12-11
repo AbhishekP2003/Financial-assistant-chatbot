@@ -60,16 +60,16 @@ Follow these steps to set up the project locally:
   ![Budgeting](https://github.com/AbhishekP2003/Financial-assistant-chatbot/blob/4daefce61242db80758aee0a6fe4c8b36513a57c/Budgeting.png)
 
 - Investing
-  ![treatment](https://github.com/AbhishekP2003/Financial-assistant-chatbot/blob/79893903dde35f8ee184029fe263eee123cbd224/Investing.png)
+  ![Investing](https://github.com/AbhishekP2003/Financial-assistant-chatbot/blob/79893903dde35f8ee184029fe263eee123cbd224/Investing.png)
 
-- Appointment
+- Savings
   ![appointment](https://github.com/diwakarnagaraju/Healthcare-chatbot/blob/e7abd4e2e6f68611101495c4e075f06d78785a43/appointment.png)
 
-- Nutrition
-  ![nutrition](https://github.com/diwakarnagaraju/Healthcare-chatbot/blob/e7abd4e2e6f68611101495c4e075f06d78785a43/nutrition.png)
+- Loans
+  ![loans](https://github.com/diwakarnagaraju/Healthcare-chatbot/blob/e7abd4e2e6f68611101495c4e075f06d78785a43/nutrition.png)
 
-- Mental Health
-  ![Mental Health](https://github.com/diwakarnagaraju/Healthcare-chatbot/blob/e7abd4e2e6f68611101495c4e075f06d78785a43/Mental_health.png)
+- Stockmarket
+  ![stockmarket](https://github.com/diwakarnagaraju/Healthcare-chatbot/blob/e7abd4e2e6f68611101495c4e075f06d78785a43/Mental_health.png)
 
 - Good Bye
   ![Good Bye](https://github.com/diwakarnagaraju/Healthcare-chatbot/blob/e7abd4e2e6f68611101495c4e075f06d78785a43/Goodbye.png)
