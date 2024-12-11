@@ -56,8 +56,8 @@ Follow these steps to set up the project locally:
 - Greetings!
   ![Greetings](https://github.com/AbhishekP2003/Financial-assistant-chatbot/blob/eda836790da4ccc9c69476a61b384ae9286e0f50/Greetings.png)
 
-- Symptoms
-  ![symptoms](https://github.com/diwakarnagaraju/Healthcare-chatbot/blob/57a10b7d45c4d0badc2861b74a43da7aaf5f03d9/symptoms.png)
+- Budgeting
+  ![symptoms](https://github.com/AbhishekP2003/Financial-assistant-chatbot/blob/4daefce61242db80758aee0a6fe4c8b36513a57c/Budgeting.png)
 
 - Treatment
   ![treatment](https://github.com/diwakarnagaraju/Healthcare-chatbot/blob/e7abd4e2e6f68611101495c4e075f06d78785a43/treatment.png)
