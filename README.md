@@ -52,6 +52,30 @@ Follow these steps to set up the project locally:
 
 ---
 
+## Images
+- Greetings!
+  ![Greetings](https://github.com/diwakarnagaraju/Healthcare-chatbot/blob/680716ade6620b90ae9acd8b00cb4602a82f5bce/greetings.png "Greetings")
+
+- Symptoms
+  ![symptoms](https://github.com/diwakarnagaraju/Healthcare-chatbot/blob/57a10b7d45c4d0badc2861b74a43da7aaf5f03d9/symptoms.png)
+
+- Treatment
+  ![treatment](https://github.com/diwakarnagaraju/Healthcare-chatbot/blob/e7abd4e2e6f68611101495c4e075f06d78785a43/treatment.png)
+
+- Appointment
+  ![appointment](https://github.com/diwakarnagaraju/Healthcare-chatbot/blob/e7abd4e2e6f68611101495c4e075f06d78785a43/appointment.png)
+
+- Nutrition
+  ![nutrition](https://github.com/diwakarnagaraju/Healthcare-chatbot/blob/e7abd4e2e6f68611101495c4e075f06d78785a43/nutrition.png)
+
+- Mental Health
+  ![Mental Health](https://github.com/diwakarnagaraju/Healthcare-chatbot/blob/e7abd4e2e6f68611101495c4e075f06d78785a43/Mental_health.png)
+
+- Good Bye
+  ![Good Bye](https://github.com/diwakarnagaraju/Healthcare-chatbot/blob/e7abd4e2e6f68611101495c4e075f06d78785a43/Goodbye.png)
+
+---
+
 ## Intents Data
 The chatbot's behavior is defined by the `intents.json` file, which contains various tags, patterns, and responses. You can modify this file to add new intents or change existing ones.
 
