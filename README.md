@@ -105,7 +105,33 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Replace `<repository-url>` and `<repository-directory>` with the actual URL of your repository and the name of the directory where the project is located. Adjust any sections as necessary to better fit your project's specifics.
+## Future Enhancements
+
+The **Financial Assistant Chatbot** project is constantly evolving. Here are some potential future enhancements:
+
+1. **Expanded Knowledge Base & Integration**
+   - Add more intents (e.g., insurance, retirement planning) and integrate with external APIs for real-time financial data (stock prices, loan calculators).
+   - Dynamic updating of knowledge without re-training the model.
+
+2. **Improved Natural Language Understanding (NLU)**
+   - Incorporate advanced deep learning models like BERT for better understanding of complex queries.
+   - Implement contextual conversation tracking and Named Entity Recognition (NER) to extract specific financial details from user queries.
+
+3. **Personalized User Experience**
+   - Implement user accounts to store preferences, goals, and financial history for personalized advice.
+   - Add features for budget tracking, savings goals, and investment recommendations tailored to individual financial situations.
+
+4. **Mobile & Multilingual Support**
+   - Extend the chatbot’s capabilities to multiple languages and create a mobile-friendly version for seamless access on the go.
+   - Implement a voice interface for hands-free interaction and integration with voice-based devices.
+
+These enhancements will improve the chatbot’s accuracy, user experience, and overall functionality, making it a more powerful tool for personal finance management.
+
 
 ---
+## Contact
 
+- Author: Diwakar Nagaraju
+- GitHub: [Abhishek P](https://github.com/diwakarnagaraju)
+- Email: abhishek.p.ssmrvpu@gmail.com
+---
