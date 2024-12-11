@@ -14,10 +14,12 @@ A simple financial assistant chatbot built with Python and Streamlit. This chatb
 ---
 
 ## Technologies Used
-- **Python**
-- **NLTK**
-- **Scikit-learn**
-- **Streamlit**
+- **Python 3.11**
+- **Streamlit**: For creating the interactive user interface.
+- **TensorFlow/Keras**: For AI and machine learning models.
+- **NLTK**: For natural language processing.
+- **Flask**: For backend API integration.
+- **SQLite**: For database management.
 - **JSON** for intents data
 
 ---
