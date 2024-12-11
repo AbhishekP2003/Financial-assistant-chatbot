@@ -63,7 +63,7 @@ Follow these steps to set up the project locally:
   ![Investing](https://github.com/AbhishekP2003/Financial-assistant-chatbot/blob/79893903dde35f8ee184029fe263eee123cbd224/Investing.png)
 
 - Savings
-  ![appointment](https://github.com/diwakarnagaraju/Healthcare-chatbot/blob/e7abd4e2e6f68611101495c4e075f06d78785a43/appointment.png)
+  ![savings](https://github.com/AbhishekP2003/Financial-assistant-chatbot/blob/adf44f7da857d193b5c91a94041558051d64e883/Savings.png)
 
 - Loans
   ![loans](https://github.com/diwakarnagaraju/Healthcare-chatbot/blob/e7abd4e2e6f68611101495c4e075f06d78785a43/nutrition.png)
